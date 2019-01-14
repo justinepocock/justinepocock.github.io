@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+# this is the home page
+
+this is content
+
+It needs a menu, I'll figure that out tomorrow on the train... woop! 
