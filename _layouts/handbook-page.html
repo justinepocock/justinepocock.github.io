@@ -5,6 +5,13 @@
     <title>{{ title }}</title>
   </head>
   <body>
+    <ul>
+    {% for item in site.menus.header %}
+      <li class="menu-item-{{ loop.index }}">
+        <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
     <h1>{{ title }}</h1>
     {{ content }}
     <h2>FIELDS from forestry.io</h2>

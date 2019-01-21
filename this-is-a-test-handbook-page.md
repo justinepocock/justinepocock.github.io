@@ -6,6 +6,10 @@ tags:
 - " Test"
 date: 2019-01-21 17:17:44 +0000
 layout: handbook-page
+menus:
+  header:
+    title: Test page
+    weight: 1
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...

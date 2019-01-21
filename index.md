@@ -1,7 +1,10 @@
 ---
 title: Code Enigma Handbook
 layout: home
-
+menus:
+  header:
+    title: Home
+    weight: 1
 ---
 # This is the home page
 
