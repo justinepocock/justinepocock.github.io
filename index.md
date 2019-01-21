@@ -12,10 +12,8 @@ page_sections:
     link_text: Test Handbook
   - link: "/a-sub-test-page"
     link_text: Sub test
-  - link: "#"
-    link_text: Team
----
 
+---
 # This is the home page
 
 We've got a simple menu in, now to make sub menus
