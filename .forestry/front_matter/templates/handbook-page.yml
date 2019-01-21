@@ -18,6 +18,11 @@ fields:
   config:
     required: true
   default: handbook-page
+- type: text
+  name: indentifier
+  label: Indentifier
+  description: If this page needs to have pages under it, add an identifier to create
+    a new menu
 pages:
 - a-sub-test-page.md
 - this-is-a-test-handbook-page.md
