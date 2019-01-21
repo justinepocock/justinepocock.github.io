@@ -24,5 +24,6 @@ fields:
   description: If this page needs to have pages under it, add an identifier to create
     a new menu
 pages:
+- index.md
 - this-is-a-test-handbook-page.md
 - a-sub-test-page.md

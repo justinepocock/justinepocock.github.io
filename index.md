@@ -1,6 +1,7 @@
 ---
 title: Code Enigma Handbook
 layout: handbook-page
+identifier: Cheese
 menu:
   main:
     title: Home
