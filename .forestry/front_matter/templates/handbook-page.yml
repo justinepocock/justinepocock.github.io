@@ -19,8 +19,8 @@ fields:
     required: true
   default: handbook-page
 - type: text
-  name: indentifier
-  label: Indentifier
+  name: identifier
+  label: Identifier
   description: If this page needs to have pages under it, add an identifier to create
     a new menu
 pages:
