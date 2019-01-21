@@ -10,6 +10,7 @@ menu:
   main:
     title: Test page
     weight: 2
+    identifier: test-section
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...

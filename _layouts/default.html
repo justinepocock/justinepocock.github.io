@@ -5,6 +5,10 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
+    <nav>
+     {% assign menu = site.menus.main %}
+     {% include menu.html %}
+    </nav>
     {{ content }}
   </body>
 </html>

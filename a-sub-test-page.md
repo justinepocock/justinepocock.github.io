@@ -8,13 +8,13 @@ tags:
 - Test
 date: 2019-01-21 18:19:31 +0000
 menu:
-  main:
+  test-section:
     weight: 1
     parent: item_Grd6ZxY
     title: Sub page
 
 ---
-# Content
+## Content
 
 The content being on the right hand side of the edit page is a bit confusing, but I guess once you know it is clean and easy to use.
 
@@ -25,7 +25,7 @@ It's interesting that it shows the content in markdown.
 1. And lists seem to be ok
 2. This reminds me a lot of Bear App
 
-So[ links](goggle.com "Link")?
+So [links](http://google.com "Link")?
 
 Code snippets too, I don't think we'll define them.
 
