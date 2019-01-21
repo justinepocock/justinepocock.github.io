@@ -21,4 +21,6 @@ It's interesting that it shows the content in markdown.
 
 So[ links](goggle.com "Link")?
 
-Code snippets too, I don't think we'll define them. 
+Code snippets too, I don't think we'll define them.
+
+Also you save as a draft, preview if you wish, then turn draft off, click save and it goes to the real site. 
