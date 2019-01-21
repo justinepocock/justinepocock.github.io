@@ -19,3 +19,5 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+pages:
+- this-is-a-test-handbook-page.md
