@@ -2,6 +2,8 @@
 title: Code Enigma Handbook
 layout: handbook-page
 identifier: Cheese
+tags:
+- Design
 menu:
   main:
     title: Home
