@@ -7,7 +7,7 @@ tags:
 date: 2019-01-21 17:17:44 +0000
 layout: handbook-page
 menus:
-  header:
+  main:
     title: Test page
     weight: 1
 
