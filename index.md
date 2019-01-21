@@ -9,4 +9,5 @@ menu:
 ---
 # This is the home page
 
-We've got a simple menu in, now to make sub menus
+Menus kind of work, need more content to really figure it out.
+Theme isn't loading but meh for now!
