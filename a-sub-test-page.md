@@ -7,12 +7,18 @@ tags:
 - NoLink
 - Test
 date: 2019-01-21 18:19:31 +0000
-menu:
-  test-section:
-    weight: 1
-    parent: item_Grd6ZxY
-    title: Sub page
-
+page_sections:
+- template: navigation-header
+  block: sidebar
+  navigation:
+  - link: "/"
+    link_text: Home
+  - link: "/this-is-a-test-handbook-page"
+    link_text: Test Handbook
+  - link: "/sub-test"
+    link_text: Sub test
+  - link: "#"
+    link_text: Team
 ---
 ## Content
 
