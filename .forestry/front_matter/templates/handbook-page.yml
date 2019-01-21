@@ -19,4 +19,5 @@ fields:
     required: true
   default: handbook-page
 pages:
+- a-sub-test-page.md
 - this-is-a-test-handbook-page.md
