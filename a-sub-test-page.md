@@ -6,6 +6,11 @@ tags:
 - AutocompleteFail
 - NoLink
 date: 2019-01-21 18:19:31 +0000
+menu:
+  main:
+    weight: 1
+    parent: item_Grd6ZxY
+    title: Sub page
 
 ---
 # Content
@@ -23,4 +28,4 @@ So[ links](goggle.com "Link")?
 
 Code snippets too, I don't think we'll define them.
 
-Also you save as a draft, preview if you wish, then turn draft off, click save and it goes to the real site. 
+Also you save as a draft, preview if you wish, then turn draft off, click save and it goes to the real site.
