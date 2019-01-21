@@ -1,6 +1,6 @@
 ---
 title: Code Enigma Handbook
-layout: home
+layout: handbook-page
 menu:
   main:
     title: Home
