@@ -11,3 +11,8 @@ fields:
 - type: textarea
   name: intro
   label: Introduction
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: section-index
