@@ -15,13 +15,6 @@ sections:
 - type: jekyll-pages
   label: Homepage and 404
   create: all
-- type: directory
-  path: _sample
-  label: Sample
-  create: all
-  match: "**/*"
-  templates:
-  - handbook-page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
