@@ -27,7 +27,6 @@ fields:
     required: true
     time_format: h:mm
     display_utc: false
-- type: text
 pages:
 - index.md
 - this-is-a-test-handbook-page.md
