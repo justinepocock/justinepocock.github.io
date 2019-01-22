@@ -6,7 +6,7 @@ layout: handbook-page
 menu:
   main:
     weight: 2
-    title: Test top level handbook page
+    title: Random Top level page
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...
