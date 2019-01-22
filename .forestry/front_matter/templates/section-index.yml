@@ -16,5 +16,3 @@ fields:
   label: layout
   hidden: true
   default: section-index
-pages:
-- holiday-sick-benefits-and-other-hr-type-things.md
