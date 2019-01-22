@@ -1,6 +1,10 @@
 ---
 title: index.md Code Enigma Handbook
 layout: handbook-page
+tags:
+- test
+identifier: ''
+date: ''
 menu:
   main:
     title: Home
