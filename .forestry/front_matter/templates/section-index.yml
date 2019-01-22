@@ -8,9 +8,6 @@ fields:
   label: Title
   config:
     required: true
-- type: textarea
-  name: intro
-  label: Introduction
 - type: text
   name: layout
   label: layout
