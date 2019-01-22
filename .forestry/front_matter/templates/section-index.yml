@@ -20,5 +20,6 @@ fields:
     required: true
   description: Set the section menu name
 pages:
+- index.md
 - _contenthr/index.md
 - _contentapps/apps.md

@@ -25,7 +25,6 @@ fields:
     time_format: h:mm
     display_utc: false
 pages:
-- index.md
 - this-is-a-test-handbook-page.md
 - _contentapps/index.md
 - _contenthr/pay-reviews.md
