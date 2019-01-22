@@ -11,5 +11,3 @@ fields:
 - type: textarea
   name: intro
   label: Introduction
-pages:
-- holiday-sick-benefits-and-other-hr-type-things.md
