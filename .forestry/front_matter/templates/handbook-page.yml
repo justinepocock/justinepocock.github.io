@@ -28,19 +28,6 @@ fields:
     time_format: h:mm
     display_utc: false
 - type: text
-- type: select
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - HR
-    - Apps
-    - Code Enigma
-  label: Section
-  name: menu_main_identifier
-  description: What section does this page sit in?
-  default: HR
 pages:
 - index.md
 - this-is-a-test-handbook-page.md
