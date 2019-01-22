@@ -23,6 +23,15 @@ fields:
   label: Identifier
   description: If this page needs to have pages under it, add an identifier to create
     a new menu
+- type: datetime
+  name: date
+  label: Date
+  hidden: true
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+    time_format: h
+    display_utc: false
 pages:
 - index.md
 - this-is-a-test-handbook-page.md
