@@ -3,10 +3,6 @@ title: HR Section index
 intro: INTRO FIELD TEXT
 date: 2019-01-22 10:57:01 +0000
 layout: section-index
-menu:
-  main:
-    weight: 3
-    title: Holiday, sick, benefits and other HR-type things
 
 ---
 # Holiday, sick, benefits and other HR-type things
