@@ -25,6 +25,10 @@ permalink: /:categories/:title:output_ext
 github_username:  justinepocock
 google_analytics:
 
+collections:
+  - Apps
+  - Code_Enigma
+  - HR
 
 # Build settings
 markdown: kramdown
