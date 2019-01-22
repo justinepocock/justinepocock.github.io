@@ -8,6 +8,7 @@ date: 2019-01-21 17:17:44 +0000
 layout: handbook-page
 undefined: ''
 identifier: HR
+menu_main_identifier: Apps
 menu:
   main:
     title: Test page
