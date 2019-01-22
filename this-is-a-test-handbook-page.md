@@ -9,7 +9,7 @@ layout: handbook-page
 menu:
   main:
     title: Test page
-    weight: 2
+    weight: 1
     identifier: test-section
 
 ---

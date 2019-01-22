@@ -1,0 +1,15 @@
+---
+label: Section index
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: intro
+  label: Introduction
+pages:
+- holiday-sick-benefits-and-other-hr-type-things.md
