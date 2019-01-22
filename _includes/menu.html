@@ -8,7 +8,7 @@
       {% include menu.html %}
     {% endif %}
   {% else %}
-    <li><a href="{{ item.ur l}}">{{ item.title }}</a></li>
+    <li><a href="{{ item.url}}">{{ item.title }}</a></li>
     {% if item.children %}
       {% assign menu = item.children %}
       {% include menu.html %}
