@@ -1,13 +1,19 @@
 {% if menu %}
 <ul>
 {% for item in menu %}
-  <li class="menu-item-{{ loop.index }}">
-    <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+  {% if page.url == item.url %}
+    <li class="active"><a href="{{ item.url }}" class="active">{{ item.title }}</a></li>
     {% if item.children %}
       {% assign menu = item.children %}
       {% include menu.html %}
     {% endif %}
-  </li>
+  {% else %}
+    <li><a href="{{ item.ur l}}">{{ item.title }}</a></li>
+    {% if item.children %}
+      {% assign menu = item.children %}
+      {% include menu.html %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 </ul>
 {% endif %}
