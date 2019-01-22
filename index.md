@@ -1,8 +1,6 @@
 ---
 title: index.md Code Enigma Handbook
-layout: handbook-page
-tags:
-- test
+layout: handbook-page 
 date: 2019-01-22 00:00:00 +0000
 menu:
   main:
