@@ -11,6 +11,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+  exclude: ".gitkeep"
 - type: jekyll-pages
   label: Homepage and 404
   create: all
