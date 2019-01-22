@@ -5,8 +5,8 @@ date: 2019-01-21 17:17:44 +0000
 layout: handbook-page
 menu:
   main:
-    weight: 2
-    title: Test top level handbook page
+    weight: 4
+    title: Random Top level page
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...
