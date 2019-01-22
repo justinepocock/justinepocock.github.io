@@ -6,6 +6,8 @@ tags:
 - Test
 date: 2019-01-21 17:17:44 +0000
 layout: handbook-page
+undefined: ''
+identifier: HR
 menu:
   main:
     title: Test page
