@@ -12,4 +12,4 @@ menu:
 # This is the home page it uses the new handbook-page layout
 Menus kind of work, need more content to really figure it out.
 NEXT AND PREVIOUS BUTTONS COULD BE USEFUL AS WE CANT JUST SCROLL FROM ONE PAGE TO THE NEXT
-Permalink printing could be handy too. 
+Permalink printing could be handy too.

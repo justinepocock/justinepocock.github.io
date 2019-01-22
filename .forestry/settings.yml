@@ -4,15 +4,16 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Site content
 - type: directory
-  path: _sample
-  label: Sample
+  path: _content
+  label: Pages
   create: all
   match: "**/*"
-  templates:
-  - handbook-page
+  exclude: ".gitkeep"
 - type: jekyll-pages
-  label: Pages
+  label: Homepage and 404
   create: all
 upload_dir: uploads
 public_path: "/uploads"
