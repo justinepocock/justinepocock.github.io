@@ -9,7 +9,8 @@ layout: handbook-page
 menu:
   main:
     title: Test page
-    
+    identifier: item_wxBxFib
+    weight: 2
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...
