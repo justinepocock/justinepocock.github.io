@@ -12,7 +12,8 @@ menu:
   main:
     title: Test page
     identifier: item_wxBxFib
-    weight: 2
+    weight: 1
+    parent: item_gwofU-3
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...
