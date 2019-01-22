@@ -13,3 +13,9 @@ fields:
   label: layout
   hidden: true
   default: section-index
+- type: text
+  name: identifier
+  label: Identifier
+  config:
+    required: true
+  description: Set the section menu name
