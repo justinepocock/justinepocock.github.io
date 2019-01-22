@@ -12,6 +12,7 @@ menu:
     weight: 1
     parent: item_Grd6ZxY
     title: Sub page
+    identifier: item_85-Eny7
 
 ---
 ## Content
