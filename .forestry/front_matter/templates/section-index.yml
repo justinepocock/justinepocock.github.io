@@ -16,5 +16,3 @@ fields:
   label: layout
   hidden: true
   default: section-index
-pages:
-- Code Enigma/Apps/apps.md
