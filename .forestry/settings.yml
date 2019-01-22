@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _content
+  label: Content
+  create: all
+  match: "**/*"
+- type: directory
   path: _sample
   label: Sample
   create: all
@@ -12,7 +17,7 @@ sections:
   templates:
   - handbook-page
 - type: jekyll-pages
-  label: Pages
+  label: Homepage and 404
   create: all
 upload_dir: uploads
 public_path: "/uploads"
