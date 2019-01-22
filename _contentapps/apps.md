@@ -6,6 +6,7 @@ identifier: Apps
 menu:
   main:
     weight: 3
+    identifier: item_wNzkZh_
     title: Apps
 
 ---

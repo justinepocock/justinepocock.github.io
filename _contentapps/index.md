@@ -2,6 +2,11 @@
 layout: handbook-page
 title: A sub test page
 date: 2019-01-21 18:19:31 +0000
+menu:
+  main:
+    weight: 1
+    parent: item_wNzkZh_
+    title: Sub test page
 
 ---
 ## Content
