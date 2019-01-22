@@ -7,6 +7,7 @@ identifier: HR
 menu:
   main:
     weight: 4
+    identifier: item_23oxkFF
     title: HR
 
 ---
