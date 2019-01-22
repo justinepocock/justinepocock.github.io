@@ -2,10 +2,6 @@
 layout: handbook-page
 title: A sub test page
 date: 2019-01-21 18:19:31 +0000
-menu:
-  main:
-    weight: 3
-    title: Holiday, sick, benefits and other HR-type things
 
 ---
 ## Content
