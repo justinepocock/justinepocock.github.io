@@ -6,7 +6,6 @@ layout: section-index
 tags: []
 menu:
   main:
-    weight: 3
     identifier: item_gwofU-3
 
 ---

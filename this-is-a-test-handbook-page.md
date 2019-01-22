@@ -9,8 +9,7 @@ layout: handbook-page
 menu:
   main:
     title: Test page
-    weight: 1
-    identifier: test-section
+    
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...

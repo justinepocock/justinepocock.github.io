@@ -8,7 +8,6 @@ date: 2019-01-22 00:00:00 +0000
 menu:
   main:
     title: Home
-    weight: 2
 
 ---
 # This is the home page it uses the new handbook-page layout

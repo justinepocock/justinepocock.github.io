@@ -7,6 +7,7 @@ menu:
   main:
     weight: 1
     parent: item_jLDZBHE
+    identifier: HR
 
 ---
-These happen yearly and we’ll communicate the outcome to you privately. 
+These happen yearly and we’ll communicate the outcome to you privately.
