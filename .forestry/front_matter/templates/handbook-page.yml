@@ -26,6 +26,3 @@ fields:
     display_utc: false
 pages:
 - index.md
-- _content/this-is-a-test-handbook-page.md
-- _content/_hr/pay-reviews.md
-- _content/_apps/index.md

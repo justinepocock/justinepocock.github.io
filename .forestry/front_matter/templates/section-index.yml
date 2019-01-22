@@ -19,6 +19,3 @@ fields:
   config:
     required: true
   description: Set the section menu name
-pages:
-- _content/_hr/index.md
-- _content/_apps/apps.md
