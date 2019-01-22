@@ -5,10 +5,8 @@ date: 2019-01-21 17:17:44 +0000
 layout: handbook-page
 menu:
   main:
-    title: Test page
-    identifier: item_wxBxFib
-    weight: 1
-    parent: item_gwofU-3
+    weight: 2
+    title: Test top level handbook page
 
 ---
 This is a test handbook page... The actual body is here? Oh I see... hmm...
