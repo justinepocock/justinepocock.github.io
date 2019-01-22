@@ -21,14 +21,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-permalink: /:categories/:title:output_ext
-github_username:  justinepocock
-google_analytics:
+permalink:        :slug/
 
 collections:
-  - Apps
-  - Code_Enigma
-  - HR
+  content:
+    output: true
+    permalink: :slug/
+
+github_username:  justinepocock
+google_analytics:
 
 # Build settings
 markdown: kramdown
