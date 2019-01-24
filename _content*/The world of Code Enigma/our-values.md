@@ -2,7 +2,6 @@
 layout: handbook-page
 title: Our values
 date: 2019-01-24 09:00:00 +0000
-published: false
 
 ---
 # Our values
